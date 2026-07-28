@@ -22,10 +22,11 @@ An n8n workflow that lets you ask questions about files stored in Google Drive a
 ## Contents
 
 - `RAG Workflow For Faq Documents stored in Google Drive (1).json` - exported n8n workflow, importable directly into your own n8n instance.
+- `N8N (1).mp4` - demo video walkthrough of the setup, configuration, file ingestion, and live question-answering.
 
 ## Demo video
 
-A walkthrough covering the setup, configuration, file ingestion, and live question-answering: add your Loom link here.
+Watch the full walkthrough here: [N8N (1).mp4](./N8N%20(1).mp4)
 
 ## Status
 
